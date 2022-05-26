@@ -1,5 +1,5 @@
 # soc_22
-
+## Advances in Nuclear Fusion
 Tasks Completed so far:
 - Completion of tutorials on jupter notebooks and using scientific libraries in python: https://github.com/krittikaiitb/tutorials
 - Completion of the following topics required to write code and reproduce research paper results in the forthcoming weeks:
